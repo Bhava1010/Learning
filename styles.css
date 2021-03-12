@@ -1,0 +1,190 @@
+body {
+  margin: 0;
+  background-color: #d3e0ea;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
+
+h1 {
+  color: #222831;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  line-height: 2;
+}
+
+h2 {
+  color: #30475e;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #222831;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 10px 0 0 0;
+  border-color: #a6a9b6;
+  width: 5%;
+  margin: 100px auto 100px;
+}
+
+.top-logo-container {
+  position: relative;
+}
+
+.jollyopedia {
+  position: absolute;
+  left: 90px;
+  margin-top: 30px;
+  color: #e97878;
+}
+
+.jolly-img {
+  width: 5%;
+  position: absolute;
+  left: 2px;
+}
+
+
+.top-corner {
+  position: relative;
+  padding: 20px;
+  left: 750px;
+  top: 30px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  color: #e97878;
+  font-size: 1.5rem;
+}
+.news-top-img {
+  width: 50%
+}
+
+.top-container {
+  background-color: #e97878;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 30px;
+  margin-top: 60px;
+}
+
+.middle-container {
+  margin: 50px 300px 50px 300px;
+}
+
+.bottom-container {
+  background-color: #e97878;
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.tt-stories {
+  width: 30%;
+  margin: 20px auto 20px;
+}
+
+.btn {
+   background: #E97878;
+   background-image: -webkit-linear-gradient(top, #E97878, #602020);
+   background-image: -moz-linear-gradient(top, #E97878, #602020);
+   background-image: -ms-linear-gradient(top, #E97878, #602020);
+   background-image: -o-linear-gradient(top, #E97878, #602020);
+   background-image: -webkit-gradient(to bottom, #E97878, #602020);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 10px;
+   border: solid #000000 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #000000 1px;
+   background: #DD8888;
+   background-image: -webkit-linear-gradient(top, #DD8888, #DD4636);
+   background-image: -moz-linear-gradient(top, #DD8888, #DD4636);
+   background-image: -ms-linear-gradient(top, #DD8888, #DD4636);
+   background-image: -o-linear-gradient(top, #DD8888, #DD4636);
+   background-image: -webkit-gradient(to bottom, #DD8888, #DD4636);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.trending-1 {
+  margin: 100px auto;
+  text-align: left;
+}
+
+.trending-2 {
+  margin: 100px auto;
+  text-align: right;
+}
+
+.trending-3 {
+  margin: 100px auto;
+  text-align: left;
+}
+
+.mithali10k {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.roohi {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  padding-bottom: 50px;
+}
+
+.indt20 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.mithali-para {
+  width: 50%;
+  margin: 10px auto 20px;
+
+}
+
+.roohi-para {
+  width: 50%;
+  margin: 10px auto 20px;
+}
+
+.india-para {
+  width: 50%;
+  margin: 10px auto 20px;
+}
+
+.footpara {
+  width: 50%;
+  margin: 10px auto 20px;
+}
+
+.footlink {
+  width:7%;
+  margin: 50px 50px 50px;
+
+}
